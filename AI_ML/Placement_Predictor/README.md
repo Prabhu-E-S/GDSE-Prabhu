@@ -1,1 +1,1 @@
-Dummy README
+Beginner task 1
